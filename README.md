@@ -1,2 +1,2 @@
-# E-Pin_Store_BurakGozet
-E-Pin Store BurakGozet
+# E-Pin Store Burak Gozet
+E-Pin Store Burak Gozet
